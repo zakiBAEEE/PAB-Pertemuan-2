@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Budi Setiawan",
+        "Umur" : 100,
+        "alamat" : {
+            "jalan" : "Jl.Sekip",
+            "kota"  : "Palembang",
+            "provinsi" : "Sumatera Timur"
+        },
+        "hobi" : ["Berenang", "Sepeda"]
+    },
+   {
+        "nama" : "Aan Gacor",
+        "Umur" : 90,
+        "alamat" : {
+            "jalan" : "Jl.Cinde",
+            "kota"  : "Palembang",
+            "provinsi" : "Sumatera Timur"
+        },
+        "hobi" : ["Berenang", "Sepeda"]
+    },
+    {
+        "nama" : "Budi Bae",
+        "Umur" : 100,
+        "alamat" : {
+            "jalan" : "Jl.Punai",
+            "kota"  : "Nusa Tenggara Timur",
+            "provinsi" : "Sumatera Timur"
+        },
+        "hobi" : ["Berenang", "Sepeda"]
+    }
+]
